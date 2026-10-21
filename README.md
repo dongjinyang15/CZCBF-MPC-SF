@@ -4,7 +4,7 @@ This repository hosts the official code release for the paper:
 
 **Safe Navigation among Polytopes: A Hierarchical Constrained Zonotope-Based Control Barrier Function Approach**
 
-by **Jinyang Dong, Shizhen Wu, Hao Guo, Hai Yu, Yongchun Fang**.
+by **Jinyang Dong, Shizhen Wu, Hao Guo, Hai Yu, Wei Xiao, Yongchun Fang**.
 
 ## Status
 
